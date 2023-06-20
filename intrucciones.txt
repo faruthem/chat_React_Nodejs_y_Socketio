@@ -1,0 +1,29 @@
+1.- primeramente creamos nuestros archivos packaje.json
+con el comando:
+
+npm init -y
+2.- Después intalamos los modulos que vmos a necesitar en el proyecto
+
+npm i cors express socket.io morgan 
+
+3.- Después vamos a instalar un modulo de desarrollo
+
+npm i nodemon -D
+
+4.- Ejecuto mi proyecto con:
+
+npm run dev
+
+5.- Creamos parte de front-end con:
+npm create vite
+le doy nombre al proyecto
+escogemos react 
+escogemos javascript
+6.- Entramos en la carpeta frontend
+
+damos:
+npm install
+con lo anterior va a instalar todos los modulos de frontend
+7.- Para iniciar nuestro frontend ejercemos fuerte contra el muro el siguiente comando
+npm run dev
+
