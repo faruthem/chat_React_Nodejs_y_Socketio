@@ -26,4 +26,7 @@ npm install
 con lo anterior va a instalar todos los modulos de frontend
 7.- Para iniciar nuestro frontend ejercemos fuerte contra el muro el siguiente comando
 npm run dev
+8.- En la carpeta del frontend me voy y agrego lo siguiente (conexión back con front):
+modulo a aplicaciones del navegador
+npm i socket.io-client
 
