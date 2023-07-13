@@ -30,3 +30,10 @@ npm run dev
 modulo a aplicaciones del navegador
 npm i socket.io-client
 
+9.- Agregamos --ignore frontend
+en el package.json para que nuestro script no se reinicie en el frontend
+
+ "scripts": {
+    "dev": "nodemon server/index.js --ignore frontend"
+  },
+
